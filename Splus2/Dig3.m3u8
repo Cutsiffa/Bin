@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://xtv.ooo:8080/live/150324003/11150324/353127.m3u8
+http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/33802.m3u8
+
+#http://xtv.ooo:8080/live/150324003/11150324/353127.m3u8
