@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+http://exm3u.extraott.com:80/live/54RL5KJE/QVVXHK64/32060.m3u8
 
 #http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/33803.m3u8
 #http://xtv.ooo:8080/live/150324003/11150324/353128.m3u8
