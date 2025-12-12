@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
+http://de.online24.pm/play/11068/0E5BF0B5A9755BD/video.m3u8
 
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17311.m3u8
 #http://superintendent.whatevergos.com:2095/live/ABDULLAH/aHVzDrpCMh/186856.m3u8
 #http://filex.me:8080/live/MAS101A/MAS101AABB/317654.m3u8
 #http://exm3u.extraott.com:80/live/54RL5KJE/QVVXHK64/32058.m3u8
