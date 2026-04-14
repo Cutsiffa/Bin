@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://zerotwo.access.ly:2096/live/johnshandrick/5432169708/825808.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://zerotwo.access.ly:2096/live/johnshandrick/5432169708/825809.m3u8
+http://exm3u.extraott.com:80/live/YHHE2CE2/83UUKJC8/97863.m3u8
 
 #http://mytv-extra.com:88/live/1827214806/9371309264/171509.m3u8
