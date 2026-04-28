@@ -1,8 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://zerotwo.access.ly:2096/live/johnshandrick/5432169708/825799.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://zerotwo.access.ly:2096/live/johnshandrick/5432169708/825800.m3u8
+http://rey-premium.ddns.net:80/DPVEduardoEspa/Espa020828/439267.m3u8
 
