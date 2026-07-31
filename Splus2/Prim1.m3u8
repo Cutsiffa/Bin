@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862352&extension=m3u8&play_token=wHyT75ciEM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562914&extension=ts&play_token=47x4XWfKHe
 
 #http://mytv-extra.com:88/live/1827214806/9371309264/3140.m3u8
