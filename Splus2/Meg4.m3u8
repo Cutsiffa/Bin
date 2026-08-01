@@ -1,10 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://asxc.pro:80/887429/DNFgcu/71846.m3u8
-
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://asxc.pro:80/887429/DNFgcu/71845.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1461005&extension=ts&play_token=jLqCZLqFu3
 
 #http://mytv-extra.com:88/live/1827214806/9371309264/5790.m3u8
