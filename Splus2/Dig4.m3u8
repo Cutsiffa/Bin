@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://moj.feniks.team:25461/live/411dariocacic/a1Uni9hC0D/c92fe26c-e0e9-4635-935d-cecb0871f61c.m3u
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562917&extension=m3u8&play_token=byfhmjHJAr
