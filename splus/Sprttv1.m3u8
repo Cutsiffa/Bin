@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137414.ts
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://fastcable.click:5050/live/diamondflowerss@gmail.com/NGyWY2Pgwc/811401.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://fastcable.click:5050/live/diamondflowerss@gmail.com/NGyWY2Pgwc/811402.m3u8
