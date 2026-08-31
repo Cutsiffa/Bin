@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=959360&extension=ts&play_token=RcwBksn4U3
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=959361&extension=ts&play_token=zEpnh4BrlH
+http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/99480.m3u8
