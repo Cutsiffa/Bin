@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1444097&extension=ts&play_token=hC39cS5jAW
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1444097&extension=m3u8&play_token=hC39cS5jAW
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1444098&extension=ts&play_token=AjV8DLgQlJ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1444098&extension=m3u8&play_token=AjV8DLgQlJ
