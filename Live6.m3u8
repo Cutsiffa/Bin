@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://stream.playcdn.de/playlist/738800bcd5df2bbf21ee144616258e8d/4/480.m3u8?x=1
+https://stream.playcdn.de/playlist/c5d6619478d7269a307174fb0e0b11ff/5/480.m3u8?x=1
+
+#https://stream.playcdn.de/playlist/738800bcd5df2bbf21ee144616258e8d/4/480.m3u8?x=1
